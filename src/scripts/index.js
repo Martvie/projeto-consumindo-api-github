@@ -1,11 +1,11 @@
-async function fetchGH() {
-    const response = await fetch('https://api.github.com/repos/facebook/react/issues', {
-        headers: {
-            'Authorization': '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',
-        }
-    })
-    return await response.json()
-} // KEY For raise limite of api acess
+// async function fetchGH() {
+//     const response = await fetch('https://api.github.com/repos/facebook/react/issues', {
+//         headers: {
+//             'Authorization': 'Token-here',
+//         }
+//     })
+//     return await response.json()
+// } // KEY For raise limite of api acess
 
 import {getUser} from '/src/scripts/services/user.js'
 import {getRepositories} from '/src/scripts/services/repositories.js'
