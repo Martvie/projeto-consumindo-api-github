@@ -7,8 +7,8 @@ A página consome a API do github retornando pesquisas sobre usurários da plata
 ## imagens do projeto
 
 <p align="center">
-<img src="src/images/screen/screenshot01.jpeg">
-<img src="src/images/screen/screenshot02.jpeg">
+<img src="src/images/screenshot1.jpeg">
+<img src="src/images/screenshot2.jpeg">
 
 </p>
 
